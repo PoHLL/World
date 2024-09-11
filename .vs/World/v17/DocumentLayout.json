@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Im-Mortal\\world\\World\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|e:\\im-mortal\\world\\world\\assets\\script\\packloadscripts\\packagelocaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\packloadscripts\\packagelocaldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3F88B5-CEDF-A31F-57E2-C4A5138AE8E2}|Assembly-CSharp-Editor.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Editor\\GMCmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3F88B5-CEDF-A31F-57E2-C4A5138AE8E2}|Assembly-CSharp-Editor.csproj|solutionrelative:Assets\\Editor\\GMCmd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\PackagePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\PackagePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\Package detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\Package detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\PackageCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\PackageCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\LotteryCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\LotteryCell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\Lottery Panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\Lottery Panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\UIManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\BasePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\BasePanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\MainPanl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9DF9887-5FB2-EC77-DD75-5BD45AF1C892}|Assembly-CSharp.csproj|solutionrelative:Assets\\Script\\PackLoadScripts\\MainPanl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packageLocalData.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\packageLocalData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\packageLocalData.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\packageLocalData.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\packageLocalData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:56:25.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GMCmd.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Editor\\GMCmd.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\GMCmd.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Editor\\GMCmd.cs",
+              "RelativeToolTip": "Assets\\Editor\\GMCmd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T04:55:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PackagePanel.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\PackagePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\PackagePanel.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\PackagePanel.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\PackagePanel.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T17:08:19.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Package detail.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\Package detail.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\Package detail.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\Package detail.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\Package detail.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:26:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PackageCell.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\PackageCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\PackageCell.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\PackageCell.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\PackageCell.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:26:20.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\GameManager.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:14:25.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LotteryCell.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\LotteryCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\LotteryCell.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\LotteryCell.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\LotteryCell.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:04:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lottery Panel.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\Lottery Panel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\Lottery Panel.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\Lottery Panel.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\Lottery Panel.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:53:43.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\UIManager.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\UIManager.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T08:30:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BasePanel.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\BasePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\BasePanel.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\BasePanel.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\BasePanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T12:11:57.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPanl.cs",
+              "DocumentMoniker": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\MainPanl.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PackLoadScripts\\MainPanl.cs",
+              "ToolTip": "E:\\Im-Mortal\\world\\World\\Assets\\Script\\PackLoadScripts\\MainPanl.cs",
+              "RelativeToolTip": "Assets\\Script\\PackLoadScripts\\MainPanl.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T09:12:50.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
